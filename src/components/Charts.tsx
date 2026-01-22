@@ -1,7 +1,7 @@
 import React from 'react';
 import { 
   XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
-  AreaChart, Area, LineChart, Line
+  AreaChart, Area, Line
 } from 'recharts';
 import { useCalculatorStore } from '../store/useCalculatorStore';
 

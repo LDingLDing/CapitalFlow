@@ -2,7 +2,6 @@ import React, { useEffect } from 'react';
 import { useCalculatorStore } from '../store/useCalculatorStore';
 import { InputField } from './InputField';
 import { 
-  Calculator,
   RotateCcw,
   Play,
   X
