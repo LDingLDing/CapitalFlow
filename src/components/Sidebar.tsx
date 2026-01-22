@@ -31,7 +31,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ onClose }) => {
         <div className="flex items-center justify-between mb-6 px-2">
           <div className="flex items-center gap-2">
             <div className="w-6 h-6 flex items-center justify-center rounded-[3px] overflow-hidden">
-              <img src="/icon.svg" alt="Logo" className="w-full h-full object-contain" />
+              <img src="/CapitalFlow/icon.svg" alt="Logo" className="w-full h-full object-contain" />
             </div>
             <h1 className="font-semibold text-sm tracking-wide text-notion-text">年金计算器</h1>
           </div>
